@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am a software engineer who aspire to make people's lives easy and aesthetic. That's why I make simple projects which impacts people's lives in various aspects of their day to day lives
 
 <!--
 **AntoJLijo/AntoJLijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
