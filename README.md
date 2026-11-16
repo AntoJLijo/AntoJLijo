@@ -54,18 +54,7 @@ I'm a software engineer who likes building simple, well-designed projects that m
 
 </div>
 
-<br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AntoJLijo&show_icons=true&hide_border=true&bg_color=7C3AED1A&title_color=C4B5FD&icon_color=A78BFA&text_color=DDD6FE&ring_color=A78BFA" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoJLijo&layout=compact&hide_border=true&bg_color=7C3AED1A&title_color=C4B5FD&text_color=DDD6FE" alt="Top languages" />
-
-</div>
-
-<br>
 
 ## 🌐 Connect
 
@@ -73,10 +62,8 @@ I'm a software engineer who likes building simple, well-designed projects that m
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anto-j-lijo-547176250/)
 [![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antojlijo@gmail.com)
-[![X](https://img.shields.io/badge/X-7C3AED?style=for-the-badge&logo=x&logoColor=white)](https://x.com/antojlijo)
-[![Instagram](https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__lostspecter__/)
-[![YouTube](https://img.shields.io/badge/YouTube-7C3AED?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@n%C5%A7%C3%B8%C5%82%C3%B8-v1n)
-[![Twitch](https://img.shields.io/badge/Twitch-7C3AED?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/lostspecter__)
+
+
 
 </div>
 
